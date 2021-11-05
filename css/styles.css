@@ -74,15 +74,13 @@ ul {
 }
 
 .hero-title {
-  font-family: roboto;
   font-weight: 900;
   font-size: 44px;
   color: #ffffff;
+  text-align: center;
 }
 
 .hero-button {
-  font-family: roboto;
-  font-style: 400;
   font-weight: 700;
   font-size: 16px;
   background-color: var(--blue-text-color);
@@ -98,24 +96,18 @@ ul {
 /* Section */
 
 .section-title {
-  font-family: roboto;
-  font-style: 400;
   font-weight: 700;
   font-size: 14px;
   color: var(--second-text-color);
 }
 
 .section-text {
-  font-family: roboto;
-  font-style: 400;
   font-weight: 400;
   font-size: 14px;
   color: var(--main-text-color);
 }
 
 .section-what-we-do-title {
-  font-family: roboto;
-  font-style: 400;
   font-weight: 700;
   font-size: 36px;
   color: var(--second-text-color);
@@ -128,8 +120,6 @@ ul {
 }
 
 .section-comand-title {
-  font-family: Roboto;
-  font-style: 400;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.7;
@@ -137,8 +127,6 @@ ul {
 }
 
 .section-name {
-  font-family: Roboto;
-  font-style: 400;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.2;
@@ -146,8 +134,6 @@ ul {
 }
 
 .section-professions {
-  font-family: Roboto;
-  font-style: 400;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.2;
@@ -162,7 +148,6 @@ ul {
 
 .page-footer-color-logo {
   font-family: Raleway;
-  font-style: 400;
   font-weight: 700;
   font-size: 26px;
   color: #ffffff;
@@ -175,15 +160,12 @@ ul {
 
 .page-footer-color-logo span {
   font-family: Raleway;
-  font-style: 400;
   font-weight: 700;
   font-size: 26px;
   color: var(--blue-text-color);
 }
 
 .title-adress {
-  font-family: Roboto;
-  font-style: 400;
   font-weight: 400;
   font-size: 14px;
   color: #ffffff;
@@ -191,8 +173,6 @@ ul {
 }
 
 .title-adress-post {
-  font-family: Roboto;
-  font-style: 400;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.8;
@@ -264,8 +244,6 @@ ul {
 }
 
 .portolio-button {
-  font-family: Roboto;
-  font-style: 400;
   font-weight: 500;
   font-size: 16px;
   color: var(--second-text-color);
@@ -281,8 +259,6 @@ ul {
 /* Section Portfolio */
 
 .portfolio-name {
-  font-family: Roboto;
-  font-style: 400;
   font-weight: 700;
   font-size: 18px;
   line-height: 2;
@@ -290,8 +266,6 @@ ul {
 }
 
 .portfolio-surname {
-  font-family: Roboto;
-  font-style: 400;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.9;
