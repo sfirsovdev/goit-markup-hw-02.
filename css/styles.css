@@ -17,7 +17,8 @@
 
 body {
   background-color: #ffffff;
-  font-family: Roboto, Arial, Helvetica, sans-serif;
+  font-family: Roboto, -apple-system, BlinkMacSystemFont, avenir next, avenir,
+    segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;
   color: var(--main-text-color);
 }
 
