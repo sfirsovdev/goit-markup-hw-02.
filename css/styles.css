@@ -131,7 +131,7 @@ ul {
   font-style: normal;
   font-weight: bold;
   font-size: 36px;
-  line-height: 42px;
+  line-height: 1.7;
   color: var(--second-text-color);
 }
 
@@ -140,7 +140,7 @@ ul {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 19px;
+  line-height: 1.2;
   color: var(--second-text-color);
 }
 
@@ -149,7 +149,7 @@ ul {
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
-  line-height: 19px;
+  line-height: 1.2;
   color: var(--main-text-color);
 }
 
@@ -194,7 +194,7 @@ ul {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.8;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
   text-decoration: none;
@@ -242,7 +242,7 @@ ul {
   text-decoration: none;
 }
 
-.site-nav .link.current {
+.site-nav .link-current {
   color: var(--blue-text-color);
 }
 
@@ -284,7 +284,7 @@ ul {
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
-  line-height: 36px;
+  line-height: 2;
   color: var(--second-text-color);
 }
 
@@ -293,6 +293,6 @@ ul {
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 1.9;
   color: var(--main-text-color);
 }
