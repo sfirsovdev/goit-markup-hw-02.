@@ -26,6 +26,8 @@ ul {
 .page-header-color-logo {
   font-family: raleway;
   font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
   color: var(--second-text-color);
   text-decoration: none;
   letter-spacing: 0.03em;
@@ -63,6 +65,7 @@ ul {
   font-weight: 500;
   font-size: 14px;
   letter-spacing: 0.02em;
+  text-decoration: none;
 }
 
 .site-nav .link {
@@ -73,6 +76,14 @@ ul {
 .site-nav .link:hover,
 .site-nav .link:focus {
   color: var(--accent-text-color);
+}
+
+.link-current {
+  text-decoration: none;
+}
+
+.link {
+  text-decoration: none;
 }
 /* Hero------------------------------------ */
 
@@ -177,6 +188,7 @@ ul {
   letter-spacing: 0.03em;
   color: var(--text-color);
   text-decoration: none;
+  cursor: default;
 }
 
 .page-footer-color-logo:hover {
@@ -199,6 +211,7 @@ ul {
   letter-spacing: 0.03em;
   color: var(--text-color);
   text-decoration: none;
+  cursor: default;
 }
 
 .title-adress:hover,
@@ -213,6 +226,7 @@ ul {
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
   text-decoration: none;
+  cursor: default;
 }
 
 .title-adress-post:hover {
