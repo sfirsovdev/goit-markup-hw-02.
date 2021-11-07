@@ -177,6 +177,10 @@ ul {
 
 /* Футер----------------------------------- */
 
+.adress {
+  font-style: normal;
+}
+
 .footer {
   background-color: var(--background-color);
 }
